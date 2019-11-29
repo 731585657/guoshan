@@ -71,5 +71,10 @@ class Index extends  Controller
     }
 
 
+    public function test()
+    {
+        echo  '测试';
+    }
+
 
 }
